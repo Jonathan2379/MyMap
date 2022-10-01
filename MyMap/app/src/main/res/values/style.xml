@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="fundo_dialogo" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@color/cor_2</item>
+    </style>
+
+    <style name="fundo_dialogo_branco" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@color/white</item>
+    </style>
+
+</resources>

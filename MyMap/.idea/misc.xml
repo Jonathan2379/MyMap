@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/drawable/borda_curvada.xml" value="0.2095" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/drawable/fundo_geral.xml" value="0.2105" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/activity_lista_endereco.xml" value="0.22" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/activity_maps2.xml" value="0.25" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/activity_teste.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/adapter_endereco.xml" value="0.33" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/asd.xml" value="0.22" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/asd3.xml" value="0.33" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/dialog.xml" value="0.203125" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/toobar_maps_activity.xml" value="0.33" />
+        <entry key="..\:/Users/jonat/AndroidStudioProjects/MyMap/app/src/main/res/layout/toolbar.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

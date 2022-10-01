@@ -1,0 +1,25 @@
+<resources>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+
+    <string name="app_name">MyMap</string>
+    <string name="app_name1">My Location</string>
+    <string name="app_titulo2">Pensou, localizou</string>
+
+    <string name="app_btn_voltar">Voltar</string>
+    <string name="app_btn_find_cep">Busca por cep</string>
+    <string name="app_btn_my_location">Minha localização atual</string>
+    <string name="app_btn_show_address">Exibir endereços salvos</string>
+
+    <string name="hint_cep">Exemplo CEP: 76801000</string>
+    <string name="maps_salved">Seus CEPs Salvos</string>
+    <string name="app_btn_limpar">Limpar mapa</string>
+    <string name="mpas_find">Busque aqui, exp: Maracanã</string>
+    <string name="app_cep">cep 76801000</string>
+    <string name="app_logradouro">logradouro</string>
+    <string name="app_complemento">complemento</string>
+    <string name="app_bairro">bairro</string>
+    <string name="app_localidade">localidade</string>
+    <string name="app_uf">uf</string>
+    <string name="app_id">ID</string>
+</resources>
